@@ -3,7 +3,7 @@
 
 ## 1. Phạm vi hệ thống
 * Một phòng khám ngoại trú, một cơ sở; không quản lý bệnh nhân nội trú, giường bệnh hoặc nhiều chi nhánh.
-* Web dành cho **Admin**, **Receptionist** và **Doctor**; Mobile chủ yếu dành cho **Patient**.
+* Web dành cho **Admin**, **Lễ tân** và **Doctor**; Mobile chủ yếu dành cho **Patient**.
 * Web và Mobile sử dụng chung Backend/API và cùng một cơ sở dữ liệu.
 * Phạm vi gồm tài khoản/phân quyền, danh mục, bác sĩ/lịch làm việc, lịch hẹn, tiếp nhận trực tiếp, khám và hồ sơ khám, kê đơn thuốc, chỉ định dịch vụ/kết quả, hóa đơn/thanh toán, thông báo, báo cáo và nhật ký.
 * Hỗ trợ bệnh nhân đến trực tiếp không đặt lịch. Bệnh nhân có thể có hồ sơ `Patient` trước khi có tài khoản `User`.
